@@ -1,4 +1,4 @@
-package java.com.endeal.barter.models;
+package com.endeal.barter.models;
 
 /**
  * Created by james on 12/20/2016.

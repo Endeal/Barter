@@ -1,4 +1,4 @@
-package java.com.endeal.barter.models;
+package com.endeal.barter.models;
 
 import java.util.List;
 
